@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Packet on A Cloud Packet</title>
+    <link>http://acloudpacket.com/tags/packet/</link>
+    <description>Recent content in Packet on A Cloud Packet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://acloudpacket.com/tags/packet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is A Cloud Packet?</title>
+      <link>http://acloudpacket.com/post/my-first-post/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://acloudpacket.com/post/my-first-post/</guid>
+      <description>Hello World, my name is A Cloud Packet!
+What is A Cloud Packet? &amp;ldquo;Cloud&amp;rdquo; is a term used to describe a network of remote servers that are used to store, process, and manage data, rather than using local servers or personal devices. This allows users to access and use the resources of the cloud remotely, as if it were a local network.
+&amp;ldquo;Packet&amp;rdquo; is a term used to describe a unit of data that is transmitted over a network.</description>
+    </item>
+    
+  </channel>
+</rss>

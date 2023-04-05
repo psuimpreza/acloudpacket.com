@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on A Cloud Packet</title>
+    <link>http://acloudpacket.com/tags/hugo/</link>
+    <description>Recent content in Hugo on A Cloud Packet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://acloudpacket.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying a Static Website to S3 using GitHub Actions</title>
+      <link>http://acloudpacket.com/post/deploy-static-website-to-s3/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://acloudpacket.com/post/deploy-static-website-to-s3/</guid>
+      <description>To create a static website using Hugo, GitHub, GitHub Actions, and Amazon S3, follow these steps:
+Install Hugo: If you are using macOS or Linux, you can install Hugo using the following command: brew install hugo If you are using Windows, you can download the latest Hugo executable from the Hugo releases page and add it to your PATH. Create a new Hugo site: Navigate to the directory where you want to create your new Hugo site and run the following command: hugo new site mysite This will create a new Hugo site in a directory called mysite.</description>
+    </item>
+    
+  </channel>
+</rss>
